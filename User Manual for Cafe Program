@@ -1,0 +1,14 @@
+
+User Manual for Cafe Program:
+Introduction:
+This program is designed in order to enable users to choose from a list of three beverage(drink) options: Hot Chocolate, Hot Coffee, or Ice Coffee. Users can choose their desired beverage and size, and then they can pay for it.
+Running the Program:
+To run the program, it is required to open the file in a Python environment that has tkinter installed. When you open the file, the program will run. 
+Choosing a Beverage:
+The first window will have the user choose the beverage that they want. They can choose between Hot Chocolate, Hot Coffee, or Ice Coffee. Once they have made their decision and chosen, they will be taken to a window for that beverage.
+Choosing a Size:
+In the window for each beverage, the user will have to choose a size. For Hot Chocolate and Hot Coffee, they can choose between Small, Medium, or Large. For Ice Coffee, they can choose between Small, Medium, or Large. Once the user has made their decision and chosen, they will be taken to a window for that beverage size.
+Purchasing a Beverage:
+In the window for each beverage size, the user will have to purchase their beverage. The prices for each size of beverage will be displayed and they differentiate based on size. Once the user has made their decision and chosen, they can purchase their beverage by clicking the button. Once the purchase is complete, the program will end.
+Ending the Program:
+The program will end automatically after the user has payed for their beverage, displaying an ‘exit’ button on the bottom with a ‘Thank you for your Purchase!’.
